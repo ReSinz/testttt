@@ -1,0 +1,16 @@
+2022-09-02 09:28:10.298 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-09-02 09:28:10.298 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-09-02 09:28:10.313 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-02 09:28:20.908 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.0.Final
+2022-09-02 09:28:21.488 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-02 09:28:21.501 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-09-02 09:28:21.516 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2022-09-02 09:28:22.393 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-02 09:28:22.596 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-09-02 09:28:22.705 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:28:22.955 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-09-02 09:28:24.191 [main] INFO  org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 46b1c44b-3a15-4b98-b273-c51c9c02bee4
+
+2022-09-02 09:28:24.379 [main] INFO  org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@661e279d, org.springframework.security.web.context.SecurityContextPersistenceFilter@35ac9ebd, org.springframework.security.web.header.HeaderWriterFilter@4ae280da, org.springframework.security.web.csrf.CsrfFilter@4e67cfe1, org.springframework.security.web.authentication.logout.LogoutFilter@ac4915e, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6d7b001b, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2dac2e1b, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@beabd6b, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@28e7bb31, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@421ead7e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3a4e524, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@38de5daf, org.springframework.security.web.session.SessionManagementFilter@57c69937, org.springframework.security.web.access.ExceptionTranslationFilter@26d0ece6, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1f949ab9]

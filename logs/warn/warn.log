@@ -1,0 +1,14 @@
+2022-09-02 08:48:02.931 [restartedMain] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 08:49:00.105 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 08:52:49.637 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 08:55:01.531 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:15:31.123 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:16:16.345 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:19:43.742 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:20:10.642 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:20:30.624 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:21:08.148 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:22:33.170 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:28:08.126 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:28:22.705 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-02 09:28:57.243 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.

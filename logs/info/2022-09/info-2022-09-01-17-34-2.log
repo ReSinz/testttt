@@ -1,0 +1,16 @@
+2022-09-01 17:34:10.555 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-09-01 17:34:10.573 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-09-01 17:34:10.574 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-01 17:34:41.745 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.0.Final
+2022-09-01 17:34:42.370 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-01 17:34:42.373 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-09-01 17:34:42.394 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 Redis repository interfaces.
+2022-09-01 17:34:42.519 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.trkj]' package. Please check your configuration.
+2022-09-01 17:34:43.359 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-01 17:34:43.606 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-09-01 17:34:43.714 [main] WARN  com.alibaba.druid.pool.DruidDataSource - removeAbandoned is true, not use in production.
+2022-09-01 17:34:43.993 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-09-01 17:34:45.397 [main] INFO  org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 6480fe3e-775a-4dd5-ad02-c6f656d339e1
+
